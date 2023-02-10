@@ -3,7 +3,7 @@
 this file contains the problem statement, dataset and solution code base of the hypothetical bubble universe problem in national student space challenge.
 this solution was submitted as part of the research case study submission that was awrded silver medal among more than 80 submissions. 
 
-solutions_bubble_universe contains the solution the following problem statement and root_of_polynomial.py contains the code used in the solution.
+bubble universe solution.docx contains the solution the following problem statement and root_of_polynomial.py contains the code used in the solution.
 
 problem statement: 
 
