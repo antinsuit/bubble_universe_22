@@ -18,12 +18,10 @@ Radius(r) exists where the universe is neither expanding nor contracting.
 B. Given the values of constant , , and T, find the number of radii possible (only
 the Cardinal Number) for each set of constants. Constants are given in the
 datasheet.
-(https://docs.google.com/spreadsheets/d/1WGqZuoY7H2aJlHMBO0dEUYUEAv_
-VBp9ekcPKsKxIQho/edit?usp=sharing)
+(https://docs.google.com/spreadsheets/d/1WGqZuoY7H2aJlHMBO0dEUYUEAv_VBp9ekcPKsKxIQho/edit?usp=sharing)
 C. Given the values of , , T, and Radius of the universe(R), find whether each of
 the systems is either expanding, non-expanding, or contracting. By plotting a
 graph, decide if any of the universes have a stable radius and locate those
 points.
-(https://docs.google.com/spreadsheets/d/1rIZaPKV0dqEoe6WCS1gl4n003U-XKv
-1P3n4Ki2MDfWo/edit?usp=sharing)
+(https://docs.google.com/spreadsheets/d/1rIZaPKV0dqEoe6WCS1gl4n003U-XKv1P3n4Ki2MDfWo/edit?usp=sharing)
 
