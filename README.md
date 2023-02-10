@@ -5,4 +5,4 @@ this solution was submitted as part of the research case study submission that w
 
 problem_statment.pdf contains the problem statement
 sumbited_solution.text contains the solution of the problem
-roots_of_pollynomial contains the code base used in the solution
+roots_of_pollynomial.py contains the code base used in the solution
